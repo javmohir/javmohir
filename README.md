@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Turayev Javohir!
 
 🎯 Aspiring Data Analyst / Data Scientist  
-📍 Based in Russia | 🌱 Learning AI, Machine Learning & Data Visualization  
+📍 Based in Uzbekistan | 🌱 Learning AI, Machine Learning & Data Visualization  
 🎓 Background in Energy Engineering | 📊 Passionate about turning data into insights  
 
 ---
