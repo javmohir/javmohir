@@ -45,5 +45,5 @@
 - Email: [turayevjavohir93@gmail.com] (change this)
 - LinkedIn: [www.linkedin.com/in/javohir-turayev-703726242]
 - GitHub: [github.com/javmohir](https://github.com/javmohir)
-
+- Telegram: [@javoh_93](https://t.me/javoh_93)
 ---
